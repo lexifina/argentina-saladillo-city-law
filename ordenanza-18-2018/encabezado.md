@@ -1,0 +1,16 @@
+Ordenanza Nº18/18
+Ordenanza Nº 18/18
+Saladillo, 05/06/2018
+VISTO el expediente nº 97/2018, iniciado por el Bloque de Concejales de Unidad Ciudadana, quién eleva proyecto de Ordenanza creando en el partido de Saladillo, un Registro de Electrodependientes;
+que, la Ley Nacional Nº 27.351, para personas Electrodependientes por cuestiones de salud, que otorga un beneficio y establece un registro; y la sanción de la Ley Nº 14.560 de la Provincia de Buenos Aires;
+que, nuestra Constitución Nacional, en el Artículo 42º establece “Los consumidores y usuarios de bienes y servicios tienen derecho, en la relación de consumo, a la protección de su salud”. El mencionado artículo no solo se refiere al acceso a las prestaciones básicas de salud, sino también al mantenimiento y regularidad en el tiempo y deberá velar el Estado para su cumplimiento;
+que, la Constitución Provincial, en su artículo 38º establece que ”los consumidores y usuarios tienen derecho, en relación de consumo, a la protección frente a los riesgos para la salud y su seguridad, a la promoción y defensa de sus intereses económicos y a una información adecuada y veraz”;
+que, la Ley Provincial Nº 14.560, en su Artículo 2º establece: “Denomínase Electrodependientes por Cuestiones de Salud”, a aquellos usuarios que presenten consumos extraordinarios de energía eléctrica al requerir equipamiento y/o infraestructura especial por una enfermedad diagnosticada por un médico o que tengan la necesidad de contar con un servicio eléctrico estable y permanente para satisfacer necesidades médicas dentro de su hogar. La calidad de “electrodependiente” deberá ser otorgada teniendo en cuenta lo establecido por Organismo de Control de Energía Eléctrica, dependiente del Ministerio de Infraestructura en su Resolución Nº 151/11”;
+que, la Ley N° 14.560 no solo establece una tarifa eléctrica social para quienes son denominados electrodependientes, sino que también impone a la empresa prestadora del servicio la obligación de proveer grupos electrógenos, a los sujetos comprendidos en la mencionada ley, ante la eventualidad de cortes en el suministro de energía;
+que, resulta de suma importancia poder contar con un registro de aquellas personas consideradas electrodependientes, tal como lo han implementado diferentes Municipios tal es el caso de Morón, Zarate, por mencionar solo algunos;
+que, las empresas de energía, Edenor y Edesur a partir de la sanción de la Ley de Electrodependientes cuentan con un link en sus páginas web (www.edesur.com.ar y www.edelap.com.ar), para uso exclusivo de los usuario electrodependientes;
+que, es necesario que en Saladillo se garantice a todos los ciudadanos denominados Electrodependientes por problemas de salud, la Tarifa Eléctrica de Interés Social;
+que, el Estado deberá prestar más asistencia a las personas que se encuentren por distintas razones en una situación de vulnerabilidad, y en este caso en especial a las Electrodependientes por problemas de salud; y
+CONSIDERANDO que en la Cuarta Sesión Ordinaria, llevada a cabo el día 22 de mayo de 2018, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Salud Pública, Ecología y Medio Ambiente, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
