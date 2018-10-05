@@ -1,0 +1,13 @@
+Ordenanza Nº64/18
+Ordenanza Nº 64/18
+Saladillo, 23/08/2018
+VISTO el expediente nº 208/2018, iniciado por el Departamento Ejecutivo mediante expediente Nº 4923/2018, quién eleva proyecto de Ordenanza convalidando la incompetencia de la Subsecretaría de Salud, para desarrollar tareas en los C.A.P.S.;
+que, el Decreto Nº 100/2018, mediante el cual se declaró la incompetencia de la Subsecretaría de Salud Pública y de la Secretaría de Gobierno, para llevar a cabo el desarrollo de las diferentes tareas de atención médica y de enfermería que se realiza en los distintos C.A.P.S. de la ciudad cabecera y de cuatro localidades del interior;
+que, de acuerdo a los servicios que se prestan en los C.A.P.S. es necesario contar con personal con conocimientos médicos, para desempeñarse en horarios reducidos y días alternados;
+que, si bien la Subsecretaría cuenta en su plantel con distintos profesionales (médicos, enfermeros, entre otros), los mismos se encuentran abocados a otras tareas, y para brindar la debida atención y cubrir las necesidades en la atención primaria de la salud, resulta necesario proceder a la contratación de personal idóneo en otras especialidades a saber: Médicos Clínicos, Pediatras, Ginecólogos, Fisiatras, Patólogos, Licenciados en Nutrición, Asistentes Geriátricos, Enfermeros, Licenciados en Fonoaudiología, Licenciados en Obstetricia, etc.;
+que, doctrinariamente el Honorable Tribunal de Cuentas de la Provincia de Buenos Aires ha considerado factible la contratación de profesionales por parte del Departamento Ejecutivo, siempre que no se cuente con personal especializado o el existente se declare incompetente;
+que, de acuerdo a lo dispuesto por el artículo 66º del Reglamento de Contabilidad y Disposiciones de Administración para las Municipalidades de la Provincia de Buenos Aires, este tipo de contrataciones por parte de la Municipalidad, serán considerados gastos especiales;
+que, atento ello resulta necesaria la intervención del Honorable Concejo Deliberante en un todo de acuerdo al artículo 32º de la ley Orgánica de las Municipalidades de la Provincia de Buenos Aires, no obstante lo cual, y dada la premura que merece la disposición del recurso humano mencionado, se procedió al dictado de un decreto ad referéndum autorizando la contratación en cuestión; y
+CONSIDERANDO que en la Novena Sesión Ordinaria, llevada a cabo el día 14 de agosto de 2018, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
