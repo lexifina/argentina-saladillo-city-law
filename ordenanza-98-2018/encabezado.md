@@ -1,0 +1,13 @@
+Ordenanza Nº98/18
+Ordenanza Nº 98/18
+Saladillo, 29/08/2018
+VISTO el expediente nº 291/2018, iniciado por el Departamento Ejecutivo mediante expedientes nº 5121/2018 y 5031/2018, quién eleva proyecto de Ordenanza referente a aceptar oferta única para la Licitación Privada nº 8/2018;
+que, mediante los expedientes 5121-J-2018, 5031-I-2018 y 3903-D-2018 se procede al llamado a Licitación Privada Nº 8/2018 para la adquisición de herramientas mayores para la Dirección de Mantenimiento, la cual cuenta con un presupuesto oficial de $ 1.485.346,00;
+que, con fecha 23 de julio de 2018 se dictó el Decreto 1566/2018, por medio del cual se llamó a Licitación Privada nº 8/2018 para la adquisición de herramientas mayores para la Dirección de Mantenimiento, de acuerdo a las cláusulas y condiciones que indica el Pliego de Bases y Condiciones obrantes en expediente;
+que, con fecha 6 de agosto de 2018 se realizó el acto de apertura de Sobres del cual surge que la firma Hansen Eduardo Miguel presentó cotización total por la suma de $ 626.244,00, la firma Zenobi Juan Humberto presentó cotización total por la suma de $ 1.806.720,89 y las otras cinco empresas invitadas no presentaron ofertas;
+que, mediante Decreto 1724/2018 se procedió a adjudicar por ítems la Licitación Privada 8/2018, de la siguiente manera: ítems 6, 10 y 11 a la firma Zenobi Juan Humberto por la suma total de $ 52.066,37 y los ítems 1, 2, 3, 4, 5, 9, 12, 13 y 14 a la firma Hansen Eduardo Miguel por la suma total de $ 565.324,00;
+que, con relación a los ítems 7 y 8 de licitación de marras solo fueron cotizados por la firma Zenobi Juan Humberto presupuestando la suma de $ 323.382,00 y $ 649.278,00, respectivamente;
+que, el artículo 2º del Decreto 1724/18 dispone dar intervención al Honorable Concejo Deliberante a efectos de que se autorice la adjudicación de los ítems 7 y 8 a la firma Zenobi Juan Humberto por ser oferta única, todo ello conforme a lo dispuesto por el artículo 12º segundo párrafo del Pliego de Bases y Condiciones Legales Cláusulas Particulares y por el artículo 155 del Decreto Ley 6.769/58 (Ley Orgánica de las Municipalidades) el cual dispone “si en las licitaciones realizadas con las formalidades de esta ley se registrara una sola oferta y ésta fuera de evidente conveniencia, la autoridad administrativa podrá resolver su aceptación con autorización del Concejo….”; y
+CONSIDERANDO que en la Décima Sesión Ordinaria, llevada a cabo el día 28 de agosto de 2018, se aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
