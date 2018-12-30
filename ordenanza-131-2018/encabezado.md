@@ -1,0 +1,12 @@
+Ordenanza Nº131
+Ordenanza Nº 131
+Saladillo, 26/10/2018
+VISTO el expediente nº 357/2018, iniciado por el Departamento Ejecutivo mediante el expediente nº 6343/2018, quién eleva proyecto de Ordenanza declarando la incompetencia de la Secretaría de Desarrollo Local para realizar tareas de desmonte en el Vivero Municipal;
+que, por el Decreto Nº 1950/2018 se declaró la incompetencia de la Subsecretaría de Vivero y de la Secretaría de Desarrollo Local –área a la que pertenece la primera-, por carecer de equipamiento - doble disco desencontrado, con rastra y rolo - y personal calificado para acondicionar el lote de desmonte y recuperación de espacios productivos en superficie desmontada y otras a recuperar en el predio del Vivero Municipal;
+que , el trabajo consiste en pasadas de disco con rastra y dolo, en un total de 19,5 hectáreas, resultando necesaria la contratación del equipamiento mencionado y personal especializado para su conducción, fundamentalmente contratista rural, que preste dicho servicio, el cual tendrá carácter transitorio, temporal y excepcional, por lo que se requiere autorización para contratar a personal idónea por el tiempo que duren las mismas;
+que, doctrinariamente el Honorable Tribunal de Cuentas de la Provincia de Buenos Aires ha considerado factible la contratación de profesionales por parte del Departamento Ejecutivo, siempre que no se cuente con personal especializado o el existente se declare incompetente;
+que, de acuerdo a lo dispuesto por el artículo 66º del Reglamento de Contabilidad y Disposiciones de Administración para las Municipalidades de la Provincia de Buenos Aires, este tipo de contrataciones por parte de la Municipalidad, serán considerados gastos especiales;
+que, atento ello resulta necesaria la intervención del Honorable Concejo Deliberante en un todo de acuerdo al artículo 32º de la Ley Orgánica de las Municipalidades de la Provincia de Buenos Aires, no obstante lo cual, y dada la premura que merece la disposición del recurso humano mencionado, se procedió al dictado de un decreto ad referéndum autorizando la contratación en cuestión; y
+CONSIDERANDO que en la Décima Cuarta Sesión Ordinaria, llevada a cabo el día 23 de octubre de 2018, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
