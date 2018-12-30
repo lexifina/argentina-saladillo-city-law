@@ -1,0 +1,12 @@
+Ordenanza Nº132
+Ordenanza Nº 132
+Saladillo, 26/10/2018
+VISTO el expediente nº 361/2018, iniciado por el Departamento Ejecutivo mediante expediente nº 6341/2018, quién eleva proyecto de Ordenanza declarando la incompetencia de la Dirección de Bromatología para realizar charlas en establecimientos educativos;
+que, el Decreto Nº 1603/2018 declaró la incompetencia de la Dirección de Bromatología y de la Secretaría de Gobierno para realizar el dictado de diversas charlas de concientización y manejo de mascotas en los diferentes establecimiento educativos de nuestra localidad;
+que, si bien la Dirección de Bromatología cuenta con un profesional veterinario, el mismo está afectado a cumplir tareas en el frigorífico local en cumplimiento del convenio celebrado con el Ministerio de Agroindustria de la Provincia de Buenos Aires, y por otro lado, la Directora de Bromatología se encuentra abocada a otras tareas específicas que demanda su función y cargo, resultando necesario contratar un profesional idóneo para realizar el dictado de diversas charlas de concientización y manejo de mascotas;
+que, doctrinariamente el Honorable Tribunal de Cuentas de la Provincia de Buenos Aires ha considerado factible la contratación de profesionales por parte del Departamento Ejecutivo, siempre que no se cuente con personal especializado o el existente se declare incompetente;
+que, de acuerdo a lo dispuesto por el artículo 66º del Reglamento de Contabilidad y Disposiciones de Administración para las Municipalidades de la Provincia de Buenos Aires, este tipo de contrataciones por parte de la Municipalidad, serán considerados gastos especiales;
+que, atento ello resulta necesaria la intervención del Honorable Concejo Deliberante en un todo de acuerdo al artículo 32º de la Ley Orgánica de las Municipalidades de la Provincia de Buenos Aires, no obstante lo cual, y dada la premura que merece la disposición del recurso humano mencionado, se procedió al dictado de un decreto ad referéndum autorizando la contratación en cuestión; y
+CONSIDERANDO que en la Décima Cuarta Sesión Ordinaria, llevada a cabo el día 23 de octubre de 2018, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que recomienda sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO en uso de sus atribuciones acuerda y sanciona la siguiente
+ORDENANZA
