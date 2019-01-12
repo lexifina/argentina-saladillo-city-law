@@ -1,0 +1,14 @@
+Ordenanza Nº159
+Ordenanza Nº 159
+Saladillo, 04/12/2018
+VISTO el expediente nº 396/2018, iniciado por el Departamento Ejecutivo mediante expendiente Nº 4098-2989/2018, quién eleva proyecto de Ordenanza solicitando la donación de un inmueble a favor de la Sra. Alicia Adelfa Almada;
+que, en el expediente nº 4098-2989/2018, iniciado por la Sra. Alicia Adelfa Almada, DNI 5.387.572, se solicita la escrituración mediante el mecanismo previsto en la Ley 10.830 del inmueble identificado catastralmente como Circunscripción I; Sección B; Quinta 14; Manzana 14c; Parcela 12; Partida: 093-19323; inscripto en el Registro de la Propiedad Inmueble de la Provincia de Buenos Aires a nombre de la Municipalidad de Saladillo bajo la matrícula 11.214;
+que, a fojas 4/6 consta Acta de Notoriedad de donde surge que Horacio Andrés Silva fué favorecido con una de las viviendas construidas en Prolongación Av. Pereyra de esta ciudad, siendo el inmueble propiedad de la Municipalidad de Saladillo conforme a la escritura 347 del 19 de febrero de 1987 (ver fs. 21/27);
+que, conforme surge de fojas 9 la vivienda identificada con el número 7 que le fuera adjudicada al Sr. Silva se corresponde con la siguiente nomenclatura catastral: Circunscripción I; Sección B; Quinta 14; Manzana 14c; Parcela 12;
+que, a fojas 10 obra certificado del matrimonio celebrado entre el Sr. Horacio Andrés Silva y la Sra. Alicia Adelfa Almada, y a fojas 11 se adjunta certificado de defunción del adjudicatario;
+que, dado que se trata de una adjudicación de hace más de 30 años, que la vivienda continúa siendo ocupada por el grupo familiar del adjudicatario, resulta necesario consolidar jurídicamente dicha realidad;
+que, en este sentido, el Director de Asuntos Legales considera conveniente efectuar la donación a favor de la Sra. Alicia Adelfa Almada, DNI 5.387.572 del inmueble designado catastralmente como Circunscripción I; Sección B; Quinta 14; Manzana 14c; Parcela 12; Partida: 093-19323; inscripto en el Registro de la Propiedad Inmueble de la Provincia de Buenos Aires a nombre de la Municipalidad de Saladillo bajo la matrícula 11.214 (fs. 28/29);
+que, asimismo, y a fin de evitar especulaciones y negocios inmobiliarios, debería establecerse una restricción de ceder el uso del inmueble o transferirlo a terceros, a cualquier título, por un plazo que podría ser de cinco años, a contarse desde el otorgamiento de la escritura, como así también de establecer un cargo por el cual el inmueble debe ser utilizado por el donatario y/o su grupo familiar; y
+CONSIDERANDO, que en la Décima Sexta Sesión Ordinaria, llevada a cabo el día 27 de noviembre de 2018, este Honorable Cuerpo aprobó por unamidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO,en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
