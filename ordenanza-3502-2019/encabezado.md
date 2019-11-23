@@ -1,0 +1,13 @@
+Ordenanza Nº3502
+Ordenanza Nº 3502
+Saladillo, 05/07/2019
+VISTO el expediente n° 188/2019, iniciado por el Departamento Ejecutivo Municipal mediante expediente 3273/2019, quien eleva proyecto de Ordenanza referente a aceptar Oferta Única de la Licitación Privada n° 12/19, para la contratación de mano de obra y provisión de carpintería metálica para la Biblioteca Municipal Víctor Freiberg de la localidad de Del Carril;
+que, la Licitación Privada n° 12/19, para la contratación de mano de obra y provisión de carpintería metálica para la Biblioteca Municipal Víctor Freiberg de la localidad de Del Carril tiene un presupuesto Oficial de novecientos veintiún mil quinientos ($921.500,00);
+que, con fecha 29 de mayo de 2019, se dictó Decreton°1179/2019, por medio del cual se llamó a Licitación Privada n° 12/2019; para la contratación de mano de obra y provisión de carpintería metálica para la Biblioteca Municipal Víctor Freibegr de la localidad de Del Carril, de acuerdo a las cláusulas y condiciones que indica el Pliego de bases y Condiciones generales, Particulares, obrantes en el expediente 2997-I-2019;
+que, fueron invitadas las firmas Metalcen S.A., Juan Manuel García, Julio Ariel Pacheco, Gustavo Martínez y Santiago fuentes (fs. 18/22 respectivamente)
+que, con fecha 19 de junio de 2019 se realizó el acto de apertura de sobres del cual resulta que la firma Santiago Fuentes cotizó la suma de pesos novecientos nueve mil setecientos veintiocho con 90/100 ($ 909.728,00), siendo esta la única oferta presentada (fs. 48);
+que, a fs. 50, la Directora de Estudios y Proyectos evalúa la oferta e informa que la misma es un 1,27 % inferior al presupuesto oficial y además cumple con los plazos y condiciones establecidas en el pliego;
+que, teniendo en cuenta lo informado por la directora de Estudios y Proyectos (fs. 50), lo dictaminado por el director de Asuntos Legales (fs. 52/54) y el artículo 155° del decreto ley 6.759/58(Ley Orgánica de la Municipalidades) el cual dispone “si en las licitaciones realizadas con las formalidades de esta ley se registrara una sola oferta y ésta fuera de evidente conveniencia, la autoridad administrativa podrá resolver su aceptación con autorización del Concejo….”deben elevarse la presentes actuaciones a efectos de que el Concejo deliberante confiera autorización para aceptar la oferta presentada ; y
+CONSIDERANDO que en la Octava Sesión Ordinaria, llevada a cabo el 02 de julio de 2019; este Honorable Cuerpo, aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones acuerda y sanciona la siguiente
+ORDENANZA
