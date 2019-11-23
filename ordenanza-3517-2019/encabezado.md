@@ -1,0 +1,17 @@
+Ordenanza Nº3517
+Ordenanza Nº 3517
+Saladillo, 21/08/2019
+VISTO el expediente n° 236/2019 iniciado por el Departamento Ejecutivo Municipal mediante expediente n°1684/2019, quién eleva proyecto de Ordenanza referente a autorizar la venta de un lote de terreno a la firma INNOVA S.A.;
+que, mediante los expedientes N° 1684-I-2019, 3752-I-2019 y 4173-I-2019 iniciados por INNOVA S. A., se ha manifestado la intención de compra respecto de un lote de terreno inserto en el Sector Industrial Planificado de Saladillo (S.I.P.SA.), cuya nomenclatura catastral es Circunscripción I; Sección G; Chacra 168; Manzana 168m; Parcela 6;
+que, la empresa Innova S. A. ya se encuentra instalada en el Sector Industrial Planificado de Saladillo (S.I.P.SA.), dedicándose a la elaboración de alimentos balanceados, con marca propia;
+que, la intención de compra es producto de la necesidad que tiene la empresa de ampliar sus instalaciones para llevar a cabo un incremento en la capacidad de sus líneas productivas, a raíz del desarrollo de nuevo proyectos;
+que, conforme a lo normado por la Ordenanza N° 54/1996, mediante Decreto 779/2019 se procedió a convocar a la Comisión de Iniciativa Privada para tratar el pedido de compra mencionado;
+que, con fecha 17 de abril de 2019 en dictamen unánime la Comisión de Iniciativa Privada aprueba la venta a favor de INNOVA S. A. del lote de terreno inserto en el Sector Industrial Planificado de Saladillo (S.I.P.SA.), cuya nomenclatura catastral es Circunscripción I; Sección G; Chacra 168; Manzana 168m; Parcela 6; solicitando al Departamento Ejecutivo actualizar la tasación de la propiedad;
+que, con fecha 17 de abril de 2019 el Departamento de Tasaciones del Banco de la Provincia de Buenos Aires actualiza la tasación del inmueble, fijando un valor comercial de pesos cuatro millones trescientos quince mil ($ 4.315.000,00), aclarando que el valor consignado puede sufrir una oscilación de +/- 10 %;
+que, notificada INNOVA S. A. de la actualización de la tasación, fórmula propuesta de compra por un valor de pesos tres millones ochocientos ochenta y tres mil ($3.883.000,00), esto es un 10 % menos al valor tasado por el banco;
+que, asimismo la empresa propone abonar la suma ofertada de la siguiente manera: cincuenta por ciento (% 50) del importe total, es decir pesos un millón novecientos cuarenta y un mil quinientos ($ 1.941.500,00), de contado en el momento del cierre del acuerdo; y el 50 % restante en cinco cuotas mensuales y consecutivas de $ 388.300,00 cada una, a pagar del 1 al 10 de cada mes mediante transferencia bancaria a la cuenta corriente que informe la Municipalidad, haciéndose efectiva la primera cuota al mes siguiente al del perfeccionamiento de la venta;
+que, en el expediente 4173-I-2019 Micaela Paola Bellacci, en su carácter de presidente de INNOVA S. A. acompaña la siguiente documentación: copia de estatuto societario, constancia de inscripción en AFIP, constancia de inscripción en IIBB (ARBA); Acta de designación de autoridades vigente; copia de DNI de la presidente;
+que, conforme al artículo 54° del Decreto Ley 6769/58 corresponde al Concejo Deliberante autorizar la venta de bienes de la Municipalidad; y
+CONSIDERANDO que en la Décima Sesión Ordinaria, llevada a cabo el día 13 de agosto de 2019, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
