@@ -1,0 +1,13 @@
+Ordenanza Nº3513
+Ordenanza Nº 3513
+Saladillo, 21/08/2019
+VISTO el expediente n° 144/2019, iniciado por el Departamento Ejecutivo Municipal mediante expediente n° 2384/2019, quién eleva proyecto de Ordenanza sobre incompetencia de la Subsecretaría de Deportes, Recreación y Juventud para realizar tareas en Colonias de Verano Municipal y Escuelas Abiertas de Verano;
+que, mediante el Decreto n°28/2019 se declaró la incompetencia de la Subsecretaría de Deportes, Recreación y Juventud y de la Secretaría de Gobierno para llevar adelante diversas tareas que debe realizar de manera transitoria, durante el desarrollo de las actividades de “Colonias de Verano Municipal” y “Escuelas Abiertas de Verano”;
+que, las actividades contempladas en tales programas, requieren de los conocimientos e idoneidad de profesores de Educación Física, instructores, técnicos en diferentes deportes, y guardavidas, como así también de personal y maquinarias para el mantenimiento, clorado y limpieza del natatorio;
+que, la Subsecretaría de Deportes, Recreación y Juventud, cuenta con dos profesores de Educación Física, de los cuales uno se encuentra abocado al cargo de Subsecretario y el otro al cargo de Director, siendo imposible que desarrollen la diaria de tales eventos, más allá que se requieren un importante número de profesores, guardavidas, mantenimiento, asistencia y servicios a fin de cumplir de manera completa con la prestación de las actividades descriptas;
+que, doctrinariamente el Honorable Tribunal de Cuentas de la Provincia de Buenos Aires ha considerado factible la contratación de profesionales por parte del Departamento Ejecutivo, siempre que no se cuente con personal especializado o el existente se declare incompetente;
+que, de acuerdo a lo dispuesto por el artículo 66° del Reglamento de Contabilidad y Disposiciones de Administración para las Municipalidades de la Provincia de Buenos Aires, este tipo de contrataciones por parte de la Municipalidad, serán considerados gastos especiales;
+que, atento ello resulta necesaria la intervención del Honorable Concejo Deliberante en un todo de acuerdo al artículo 32° de la ley Orgánica de las Municipalidades de la Provincia de Buenos Aires, no obstante lo cual, y dada la premura que merece la disposición del recurso humano mencionado, se procedió al dictado de un decreto ad referéndum autorizando la contratación en cuestión; y
+CONSIDERANDO que en la Décima Sesión Ordinaria, llevada a cabo el día 13 de agosto de 2019, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que recomienda sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
