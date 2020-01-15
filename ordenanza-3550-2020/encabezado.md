@@ -1,0 +1,11 @@
+Ordenanza Nº3550
+Ordenanza Nº 3550
+Saladillo, 25/11/2019
+VISTO el expediente n° 314/2019, iniciado por el Departamento Ejecutivo mediante expediente n°7029/2019, quien eleva proyecto de Ordenanza referente a aprobar el Convenio con la Cooperativa Eléctrica de Saladillo y Otros Servicios Limitada sobre compensación de deuda;
+que, refiere a la deuda que la Municipalidad posee con la Cooperativa Eléctrica de Consumo y Otros Servicios de Saladillo Limitada por los conceptos de consumo de energía eléctrica por alumbrado público, en dependencias municipales, por bombas de agua, consumo de energía eléctrica de asociaciones beneficiadas por ayuda municipal, contribución transitoria 07/2019 y por obras contratadas por la municipalidad, deuda que a la fecha asciende a la suma de pesos siete millones seiscientos setenta y seis mil cuatrocientos sesenta y cuatro ($ 7.676.464,00);
+que, por su parte, la Cooperativa Eléctrica de Consumo y Otros Servicios de Saladillo Limitada, posee deuda con la Municipalidad de Saladillo, atento la construcción de panteones en el cementerio de la ciudad cabecera y de la localidad de Del Carril que efectuó con el fin de brindar el servicio social de sepelio a los habitantes del pueblo de Saladillo;
+que, en el marco de dicha situación, las partes han optado por la suscripción de un Convenio que dispone cancelar las deudas; una parte a través del instituto de la compensación a partir de lo cual la Cooperativa saldaría toda su deuda, debiendo la Municipalidad afrontar el saldo restante con un pago en efectivo y con la concesión de terreno en los cementerios mencionados hasta el mes de mayo del año 2023;
+que, para dotar de operatividad al mencionado Convenio, en virtud de lo normado por el artículo 41° de la Ley Orgánica de las Municipalidades, resulta necesaria su aprobación por el Honorable Concejo Deliberante; y
+CONSIDERANDO que en la Décima Séptima Sesión Ordinaria, llevada a cabo el día 19 de noviembre del año 2019, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
