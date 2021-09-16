@@ -1,0 +1,14 @@
+Ordenanza Nº3662
+Ordenanza Nº 3662
+Saladillo, 09/03/2021
+VISTO el expediente n° 24/2021, iniciado por el Departamento Ejecutivo, mediante el expediente 675/2021, quién eleva proyecto de Ordenanza referente a convalidar la adjudicación de la Licitación Privada N° 3/2021 para la compra de un automóvil para uso oficial del Intendente;
+que, mediante el expediente 397/2021 el Intendente Municipal solicita datos técnicos y presupuestos para la adquisición de un automóvil naftero 0Km o sin rodar, motor 4 cilindros, 4 puertas y 5 asientos para uso oficial;
+que, atento a que los valores estimados en el presupuesto oficial, a través del expediente 675/2021 el Jefe de Compras solicita el dictado del acto administrativo correspondiente para proceder al llamado a Licitación Privada N° 3/2020;
+que, mediante el decreto 361/2021 se procede al llamado a Licitación Privada N° 03/2020 para la efectiva compra de un automóvil naftero 0Km o sin rodar, motor 4 cilindros, 4 puertas y 5 asientos para uso oficial del Intendente Municipal;
+que, con fecha 19 de febrero de 2021 se realizó el acto de apertura de sobres del cual resulta que solo la firma Hauswagen Olavarría S.A. cotizó, siendo por la suma de $ 3.960.000,00;
+que, el 24 de febrero del 2021 se expide el Director de Mantenimiento del Parque Automotor, manifestando que es la única empresa que cotiza y cumple con las características técnicas solicitadas en los pliegos de la Licitación Privada N° 3/2021, razón por la cual recomienda adjudicar la compra del vehículo en cuestión;
+que, luego de todo ello, el Director de Asuntos Legales considera que, previa autorización por parte del Honorable Concejo Deliberante podría adjudicarse la Licitación Privada N° 3/2020 a la única empresa cotizante, en atención a lo dispuesto por el artículo 155° de la Ley Orgánica Municipal;
+que, la situación inflacionaria de público conocimiento que atraviesa el país, teniendo en cuenta que el Honorable Concejo Deliberante se encuentra en el periodo de receso estival y que la convocatoria a Sesión Extraordinaria demanda el cumplimiento de plazos necesarios para cumplir con el reglamento respectivo los cuales no permiten quedar cubiertos con el plazo de mantenimiento de oferta dispuesto en el pliego; dada la premura que merece la cuestión, resultó necesario adjudicar la Licitación Privada N° 03/2021, ad referéndum de la aprobación por parte del Departamento Deliberativo Municipal; y
+CONSIDERANDO que en la Sesión Extraordinaria, llevada a cabo el día 05 de marzo del año dos mil veintiuno, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda,que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
