@@ -1,0 +1,1 @@
+ARTÍCULO 5º: Fijar un Adicional no Bonificable para el Personal Temporario en $ 2.370,00 (pesos dos mil trescientos setenta) sujetos a aportes y retenciones y no será considerado para el cálculo de antigüedad, bonificaciones por función y horas extras.-

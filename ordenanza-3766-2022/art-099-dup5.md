@@ -1,0 +1,1 @@
+Art.99 Inc e: BONIFICACIÓN POR ENCARGADO DE ÁREA: fijada en hasta 80 módulos. Esta función será computable para el pago de la "Bonificación por Antigüedad" u otros adicionales, y están sujetas a descuentos y generan Sueldo Anual Complementario".

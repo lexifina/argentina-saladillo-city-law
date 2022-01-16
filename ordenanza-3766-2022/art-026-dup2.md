@@ -1,0 +1,1 @@
+Art. 26 Inc. h) Adicional por bloqueo de título: Cuando el trabajador como consecuencia de las tareas inherentes al cargo, sufra inhabilitación legal mediante el bloqueo total del título para su libre actividad profesional, percibirá este adicional que será del cincuenta por ciento (50%) del sueldo de su clase.

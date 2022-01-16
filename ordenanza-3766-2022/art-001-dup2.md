@@ -1,0 +1,1 @@
+ARTÍCULO 1°: Fijar el Sueldo Básico para los agentes municipales, mayores de dieciocho (18) años de edad que cumplan el horario normal completo de la Administración Municipal en pesos veintiséis mil ochocientos setenta y siete con 96/100 ($ 26.877,96) a partir del 1° de enero de 2022.-

@@ -1,0 +1,1 @@
+ARTÍCULO 4º: Fijar un Adicional no Bonificable para el Personal de planta Permanente, Superior y Jerárquico excepto el Intendente Municipal en $ 1.785,00 (pesos un mil setecientos ochenta y cinco) sujetos a aportes y retenciones y no será considerado para el cálculo de antigüedad, bonificaciones por función y horas extras.-

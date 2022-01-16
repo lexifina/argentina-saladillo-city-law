@@ -1,0 +1,1 @@
+ARTÍCULO 3°: Fijar las bonificaciones estipuladas en el Convenio Colectivo de Trabajo de acuerdo a los requisitos que este fija, en los importes y/o porcentajes calculados sobre el sueldo básico que a continuación se detallan:
