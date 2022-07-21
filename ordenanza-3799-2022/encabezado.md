@@ -1,0 +1,13 @@
+Ordenanza Nº3799
+Ordenanza Nº 3799
+Saladillo, 29/04/2022
+VISTO el expediente N° 67/2022, iniciado por el Departamento Ejecutivo, mediante expediente N° 1619/2022, quién eleva proyecto de Ordenanza referente a aprobar Convenio Específico con la Facultad de Agronomía de la Universidad de Buenos Aires, para el dictado de una diplomatura;
+que, el Convenio Específico entre la Facultad de Agronomía de la Universidad de Buenos Aires y la Municipalidad de Saladillo y su Anexo I, el cual tiene como objetivo establecer relaciones de complementación y cooperación académica y el dictado de la Diplomatura en “Técnicas y prácticas para formular, validar y gestionar emprendimientos de turismo rural”;
+que, la carrera será dictada en el C.U.R.S. (Centro Universitario Regional Saladillo) junto con las restantes carreras técnicas, de grado y post grado que forman parte de la oferta académica disponible en nuestra ciudad;
+que, el curso tiene como objeto que los alumnos, adquieran herramientas para la integración, desde la idea hasta el plan de negocios, del proceso de formación, validación y gestión del proyecto emprendedor; desarrollen la capacidad de identificar los aspectos más relevantes de la demanda del proyecto, del entorno competitivo, de la identificación de las ventajas y desventajas competitivas del turismo en ámbitos rurales; y adquieran instrumentos válidos y confiables para la identificación del valor en la toma de decisiones y para evaluar resultados de su proyecto turístico;
+que, ampliar las ofertas académicas en el partido de Saladillo representa brindar mayores herramientas y oportunidades a jóvenes y emprendedores, además de concretar el objetivo del C.U.R.S. de convertirse en un referente en la región de formación profesional;
+que, el convenio suscripto y su anexo establece el dictado de la carrera por los docentes de la Facultad de Agronomía, quienes aportarán su capacidad y trayectoria en la implementación de los programas, y el pago del costo de la Diplomatura por el municipio en dos cuotas, al inicio y a la finalización de la misma;
+que, para dotar de operatividad al mencionado Convenio y su Anexo, en virtud de lo normado por el artículo 41° de la Ley Orgánica de las Municipalidades, así como en la cláusula vigésima séptima del convenio, resulta necesaria su aprobación por el Honorable Concejo Deliberante; y
+CONSIDERANDO que en la Cuarta Sesión Ordinaria, llevada a cabo el día 26 de abril de 2022, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Educación y Cultura, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADIILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
