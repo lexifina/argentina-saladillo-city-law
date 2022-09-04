@@ -1,0 +1,13 @@
+Ordenanza Nº3804
+Ordenanza Nº 3804
+Saladillo, 03/06/2022
+VISTO el expediente N° 99/2022, iniciado por el Departamento Ejecutivo, mediante expediente N° 2277/2022, quién eleva proyecto de Ordenanza referente a la eximición del pago de la inscripción al Registro Municipal de Saladillo de Automóviles y Motocicletas Antiguos y Clásicos;
+que, la Ordenanza N° 2972 (H.C.D. N° 33/2015), de creación del Registro Municipal de Saladillo de Automóviles y Motocicletas Antiguos y Clásicos, que además regula la creación, objeto, duración y otorgamiento de un permiso especial de circulación de automóviles y motocicletas considerados clásicos, como también la colocación de una placa identificatoria;
+que, a la hora de instrumentar la creación del Registro y su puesta en práctica, se advierte un costo inicial de inscripción que, más allá de tener como objetivo el sostenimiento de los gastos dispuestos por la Municipalidad de Saladillo para tal patentamiento, podría generar un desaliento a los futuros usuarios de vehículos y motos contemplados en la norma que lo regula;
+que, el objetivo principal es llegar a todo el universo de automóviles y motocicletas, contemplados en la Ordenanza N° 33/2015 modificada por la Ordenanza N° 23/2020;
+que, es un ferviente pedido de quienes son propietarios de los automóviles y motocicletas contemplados, que se genere por un tiempo determinado, principalmente en la puesta en práctica del Registro, la eximición del pago de la inscripción, todo ello para incentivar a la mayor cantidad de unidades registradas;
+que, este incentivo se verá proporcionalmente compensado con una esperada gran cantidad de inscriptos, que a la postre deberán tramitar anualmente el “Permiso Especial de Circulación” el que tendrá un valor que “(…) será fijado anualmente por la Ordenanza Impositiva, no pudiendo exceder de 50 UF (…)” conforme lo establece el artículo 9° de la Ordenanza N° 33/2015 modificado por la Ordenanza N° 23/2020 y se generarán de esta manera los recursos suficientes para solventar los costos administrativos, técnicos y de materiales para el patentamiento de las unidades;
+que, es menester conforme a lo expresado y analizando las características de la norma, dar accesibilidad para su difusión y posterior inscripción a este nuevo sistema de registración de automóviles y motocicletas antiguas o clásicas; y
+CONSIDERANDO que en la Sexta Sesión Ordinaria, llevada a cabo el día 31 de mayo de 2022, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
