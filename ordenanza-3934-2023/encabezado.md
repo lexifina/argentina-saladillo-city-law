@@ -1,0 +1,14 @@
+Ordenanza Nº3934
+Ordenanza Nº 3934
+Saladillo, 29/05/2023
+VISTO el expediente n° 140/2023, iniciado por el Departamento Ejecutivo mediante expediente n° 2453/2023, quien eleva proyecto de Ordenanza referente a autorizar al Departamento Ejecutivo a aceptar la oferta única en la Licitación Privada N° 9/2023, para el acondicionamiento de la sala de monitoreo municipal;
+que, por medio del expediente N° 2453-J-2023, el Jefe de la Oficina de Compras solicita se proceda a dar inicio al proceso de licitación privada para la contratación de mano de obra y materiales para el acondicionamiento de la sala de monitoreo, hall central, baños y boleterías de la terminal -2da. etapa-, dado que el presupuesto oficial asciende a la suma de $ 9.530.000,00 superando el monto máximo establecido para la contratación a través del procedimiento de concurso de precios;
+que, mediante el Decreto N° 1195/2023 se procedió a llamar a Licitación Privada Nº 09/2023 para la contratación de mano de obra y materiales para el acondicionamiento de la sala de monitoreo, hall central, baños y boleterías de la terminal -2da. etapa- de la ciudad de Saladillo;
+que, fueron invitadas a participar de la licitación las siguientes firmas, a saber: Montarce Oscar Adolfo; Meviel S. R. L.; IMSE S. R. L.; Larrocca Construcciones S. A.; e Isauco Construcciones y Servicios S. A. S.;
+que, con fecha 11 de mayo de 2023 se realizó el acto de apertura de sobres correspondientes a la Licitación Privada 9/2023 del cual resulta la existencia de oferta única, siendo esta la de la firma Meviel S. R. L. la cual cotiza la suma de pesos trece millones ochocientos ochenta y tres mil cien ($ 13.883.100,00);
+que, con fecha 12 de mayo de 2023 la Directora de Estudios y Proyectos manifiesta que la oferta supera en un 45,67 % al presupuesto oficial, cumpliendo por otro, lado los plazos y condiciones establecidos en el pliego; por lo que, y teniendo en cuenta el contexto económico financiero actual del país, encuentra conveniente la oferta presentada;
+que, desde la Dirección de Asuntos Legales se emite dictamen del cual surge que de rechazarse la oferta presentada debería realizarse otro llamado y esto encarecería los costos -dado el contexto inflacionario actual del país-, por lo que estima, podría aceptarse la oferta presentada;
+que, conforme al artículo 155 del Decreto Ley 6769/58 y lo establecido en el Artículo 13 del Pliego de Bases y Condiciones Legales, Cláusulas Particulares, la autoridad administrativa podrá resolver su aceptación con autorización del Concejo Deliberante; y
+CONSIDERANDO que en la Sexta Sesión Ordinaria, llevada a cabo el día 23 de mayo de 2023, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
