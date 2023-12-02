@@ -1,0 +1,2 @@
+ARTICULO 10º: Los depósitos podrían tener un área techada para que funcione como Centro de Acopio primario, debidamente habilitado, de envases vacíos de productos fitosanitarios con Triple Lavado.- Este espacio debe estar cercado con alambrado tipo olímpico y con puerta de acceso con cerradura o candado.-
+El personal que sea responsable por la gestión del depósito deberá estar capacitado y conocer los roles de emergencias en temas tales como: Actuación ante incendio, Actuación ante derrames, Actuación ante Contactos accidentales con las sustancias.-

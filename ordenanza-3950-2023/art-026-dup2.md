@@ -1,0 +1,1 @@
+ARTICULO 26º: No está permitido dentro del depósito ningún sistema de calefacción, como: radiadores eléctricos, calefactores a gas comprimido o estufas de cualquier tipo (debe regir también la prohibición de fumar).-

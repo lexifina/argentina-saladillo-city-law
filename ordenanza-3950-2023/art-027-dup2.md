@@ -1,0 +1,1 @@
+ARTICULO 27º: La iluminación instalada debe ser intensa para que las condiciones de trabajo sean seguras (el equivalente a 100 lux en 1 metro del nivel del piso), dentro del área de almacenamiento del depósito.-

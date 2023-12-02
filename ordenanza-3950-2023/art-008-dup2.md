@@ -1,0 +1,1 @@
+ARTICULO 8º: Todas las entradas al depósito deben tener a la vista letreros y pictogramas de advertencia, advirtiendo que allí se almacenan productos fitosanitarios, las recomendaciones que se deben cumplir dentro de la instalación de almacenamiento y que sólo se admite la presencia de personal autorizado y calificado.-

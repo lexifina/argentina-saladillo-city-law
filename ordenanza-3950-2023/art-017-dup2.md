@@ -1,0 +1,1 @@
+ARTICULO 17º: Las rampas para los autoelevadores y carretones no deben superar los diez grados (10º) de inclinación, diez centímetros (10 cm.) de elevación por sesenta y un centímetros (61 cm.) de recorrido o más.-

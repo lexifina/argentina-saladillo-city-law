@@ -1,0 +1,1 @@
+ARTICULO 5º: La iluminación externa perimetral debe ser tal que permita la visualización a lo largo de la línea de la propiedad.- La iluminación debe estar ubicada de manera de permitir la visión por la noche de las puertas exteriores del depósito.-

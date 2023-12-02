@@ -1,0 +1,1 @@
+ARTICULO 1º: Los depósitos deben tener un mínimo de diez metros (10 m.) de la línea de división catastral entre lotes y a una distancia de cien metros (100 m.) de hospitales, escuelas, centros comerciales, restoranes, centros de procesamiento de alimentos o forrajes (no se incluyen depósitos) u otros edificios de alta ocupación.-
