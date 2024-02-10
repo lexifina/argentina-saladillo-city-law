@@ -1,0 +1,15 @@
+Ordenanza Nº3990
+Ordenanza Nº 3990
+Saladillo, 11/10/2023
+VISTO el expediente n° 313/2023, iniciado por el Departamento Ejecutivo mediante el expediente n°5510/2023 y 5323/2023, quién eleva proyecto de Ordenanza referente a aceptar la oferta única en la Licitación Privada N° 31/2023, para la compra de hormigón para la primera etapa “Plaza de la Democracia”;
+que, mediante el expediente N° 5323-I-2023 el Intendente Municipal, Ing. José Luis Salomón, solicita el listado de tareas, elementos técnicos, cómputos y presupuesto para la compra de materiales para la construcción de la Plaza de la Democracia, etapa 1º;
+que, mediante el expediente N° 5510-J-2023 el Jefe de la Oficina de Compras solicita se proceda a dar inicio al proceso de licitación privada dado que el presupuesto oficial para la adquisición de hormigón para la construcción de la Plaza de la Democracia es de pesos nueve millones ciento cincuenta mil ($ 9.150.000,00), superando de esta manera el monto máximo estimado para los concursos de precios;
+que, mediante el Decreto 2761/2023 se procedió a llamar a Licitación Privada Nº 31/2023 para llevar a cabo la adquisición de hormigón para la construcción de la 1ª etapa de la Plaza de la Democracia, de la ciudad de Saladillo;
+que, a fs. 23/26 obran en el expediente las invitaciones a ofertar cursadas a proveedores del Estado Municipal;
+que, con fecha 4 de octubre de 2023 se realizó el acto de apertura de sobres del cual surge la existencia de oferta única, siendo esta la de la firma Bruno Construcciones S. A. la cual cotiza la suma de pesos doce millones novecientos sesenta mil ($ 12.960.000,00); presentando además una oferta alternativa por la suma de pesos nueve millones seiscientos mil ($ 9.600.000,00);
+que, con fecha 5 de octubre de 2023 la Directora de Estudios y Proyectos informa que la oferta presentada es superior al presupuesto oficial en un 41.6 %, y que la oferta alternativa es superior en un 4.9 % aunque al estar sujeta a condición de pago no cumple con las condiciones del pliego. Considerando conveniente la aceptación de la primera oferta en atención a la situación económica del país y dado que la empresa cumple con los plazos y condiciones establecidas en el pliego;
+que, si bien la suma ofertada es superior al presupuesto oficial, rechazar la misma resultaría a todas luces perjudicial a los intereses municipales dado que habría que efectuar un nuevo llamado, el cual arrojaría resultados simulares e incluso, debido al contexto económico actual, lo más probable es que la oferta sea superior, o lo que es peor aún, quedar desierta por falta de oferentes;
+que, desde la Dirección de Asuntos Legales se emite dictamen del cual surge que debe requerirse autorización al Honorable Concejo Deliberante para aceptar la oferta única; y
+CONSIDERANDO que en la Sesión Extraordinaria, llevada a cabo el día 10 de octubre de 2023, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
