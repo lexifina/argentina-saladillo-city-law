@@ -1,0 +1,12 @@
+Ordenanza Nº3998
+Ordenanza Nº 3998
+Saladillo, 13/11/2023
+VISTO el expediente n°274/2023, iniciado por el Departamento Ejecutivo mediante el expediente n° 4554/2023, quién eleva proyecto de Ordenanza referente a declarar incompetencias de diferentes áreas del Municipio de Saladillo;
+que, los Decretos nº 8/2023, 9/2023, 17/2023, 18/2023, 41/2023, 63/2023, 97/2023, 98/2023, 302/2023, 358/2023, 359/2023, 360/2023, 361/2023, 384/2023, 443/2023, 613/2023, 653/2023, 804/2023, 1002/2023, 1118/2023, 1273/2023, 1656/2023, 2069/2023, 2097/2023 y 2131/2023 mediante los cuales se declara la incompetencia de Subsecretarías y Direcciones que componen la Secretaría de Gobierno, por carecer de personal para realizar diversas tareas;
+que, al no contar las respectivas áreas con personal idóneo, o bien con el que se cuenta se encuentra abocado a otras tareas, deviene necesario proceder a la contratación de quienes puedan llevarlas a cabo con la idoneidad propias de la actividad de que se trate;
+que, doctrinariamente el Honorable Tribunal de Cuentas de la Provincia de Buenos Aires ha considerado factible la contratación de profesionales por parte del Departamento Ejecutivo, siempre que no se cuente con personal especializado o el existente se declare incompetente;
+que, de acuerdo a lo dispuesto por el artículo 66 del Reglamento de Contabilidad y Disposiciones de Administración para las Municipalidades de la Provincia de Buenos Aires, este tipo de contrataciones por parte de la municipalidad, serán considerados gastos especiales;
+que, atento ello resulta necesaria la intervención del Honorable Concejo Deliberante en un todo de acuerdo al artículo 32 de la ley Orgánica de las Municipalidades de la Provincia de Buenos Aires, no obstante lo cual, y dada la premura que merece la disposición del recurso humano mencionado, se procedió al dictado de un decreto ad referéndum autorizando la contratación en cuestión; y
+CONSIDERANDO que en la Décima Sexta Sesión Ordinaria, llevada a cabo el día 07 de noviembre de 2023, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto en general por unanimidad y en particular por unanimidad los artículos 1º, 2º, 3º, 5º, 6º, 8º, 9º, 12º, 13º, 14º, 15º, 16º, 17º, 18º, 21º, 22º, 23º, 26º y 27º; y por mayoría los artículos 4º, 7º, 10º, 11º, 19º, 20º, 24º y 25º;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
