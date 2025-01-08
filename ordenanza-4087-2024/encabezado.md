@@ -1,0 +1,11 @@
+Ordenanza Nº4087
+Ordenanza Nº 4087
+Saladillo, 21/08/2024
+VISTO el expediente N°192/2024, iniciado por el Departamento Ejecutivo mediante el expediente N°3681/2024, quien eleva proyecto de Ordenanza referente a aprobar convenio con AADI-CAPIF A.C.R.;
+que, los eventos y espectáculos artísticos y de recreación que realiza y/o produce la Municipalidad de Saladillo, en los cuales se difunden fonogramas generando así la obligación legal para el municipio de abonar las retribuciones correspondientes a los artistas intérpretes y a los productores fonográficos fijadas por la Res. 390/05 SMC;
+que, AADI-CAPIF, es la asociación habilitada para recaudar los derechos por la ejecución publica de fonogramas de los artistas intérpretes musicales y los productores de fonogramas tantos nacionales como extranjeros en todo el territorio nacional;
+que, con el objeto de fijar el monto de los aranceles a abonar por la comunicación pública de fonogramas en los eventos que realizará la Municipalidad de Saladillo durante el año 2023 se suscribe un convenio entre este municipio y AADI-CAPIF A.C.R.;
+que, a efectos de dotar de operatividad al convenio referido resulta necesaria la aprobación del mismo por parte del Honorable Concejo Deliberante conforme a lo normado por el artículo 41 de la Ley Orgánica de las Municipalidades; y
+CONSIDERANDO que en la Décima Sesión Ordinaria, llevada a cabo el día 13 de agosto de 2024, este Honorable Cuerpo aprobó por unanimidad el despacho de la Comisión de Presupuesto y Hacienda, que aconseja sancionar el mencionado proyecto;
+por todo ello, el HONORABLE CONCEJO DELIBERANTE DE SALADILLO, en uso de sus atribuciones, acuerda y sanciona la siguiente
+ORDENANZA
