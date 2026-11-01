@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-saladillo",
+  "code": "AR-B-SALADILLO",
+  "name": "Saladillo",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-saladillo-city-law",
+  "build": "built: municipal ordinances (206 ordinances, 206 versions) from https://sibom.slyt.gba.gob.ar/cities/108",
+  "language": "es",
+  "sources": 1
+}
