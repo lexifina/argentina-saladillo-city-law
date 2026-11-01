@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-206 ordinances so far, in force from 17 January 2018 to 23 July 2026, each as published in the Boletín Oficial Municipal de Saladillo, added in parts.
+211 ordinances so far, in force from 17 January 2018 to 23 July 2026, each as published in the Boletín Oficial Municipal de Saladillo, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -218,6 +218,11 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-4236-2026/` | Ordenanza 4236/2026: Fijar el valor del módulo a partir del 1 de febrero de 2026, en la suma de pesos dos mil cuatrocientos setenta y siete con 07/100 ($ 2.477,… | in force 10 June 2026 |
 | `ordenanza-4243-2026/` | Ordenanza 4243/2026: Aprobar en todos sus términos el convenio celebrado con fecha 13 de febrero de 2026 entre la Municipalidad de Saladillo y Camuzzi Gas Pampe… | in force 23 July 2026 |
 | `ordenanza-4251-2026/` | Ordenanza 4251/2026: Convalidar la adjudicación de la Licitación Pública Nº 1/26 efectuada mediante Decreto 453/2026 del Departamento Ejecutivo, a la empresa Co… | in force 23 July 2026 |
+| `ordenanza-3436-2019/` | Ordenanza 3436/2019: Acéptese la donación efectuada por SIRBO S.R.L., representada por el Sr. Alfredo Carlos Witt en su calidad de Gerente, a favor de la Munici… | in force 11 September 2019 |
+| `ordenanza-3469-2019/` | Ordenanza 3469/2019: Apruébese el Convenio suscripto con fecha 05 de abril de 2019 entre la Municipalidad de Saladillo y el Sr. Castillo Gilberto Fabián, D.N.I.… | in force 11 September 2019 |
+| `ordenanza-3478-2019/` | Ordenanza 3478/2019: Convalídese la declaración de incompetencia de la Dirección Seguridad Ciudadana y Defensa Civil y de la Secretaría de Gobierno, efectuada m… | in force 11 September 2019 |
+| `ordenanza-3479-2019/` | Ordenanza 3479/2019: Convalídese la declaración de incompetencia de la Dirección de Bromatología, de la Subsecretaría de Salud Pública y de la Secretaría de Gob… | in force 11 September 2019 |
+| `ordenanza-90-2018/` | Ordenanza 90/2018: Exímase del pago del impuesto automotor al Sr. Carlos Alberto GONZALEZ (DNI 16.625.748), Dominio ERB-811, en un porcentaje del 100%, respecto… | in force 10 October 2018 |
 
 ## Source
 
