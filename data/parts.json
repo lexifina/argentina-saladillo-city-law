@@ -230,6 +230,16 @@
     "ordenanza-4251-2026"
    ],
    "sha256": "cce1eb74e2cbf47eaefda2b02c1c6c560876a5982a66b08f441e5642defd8c85"
+  },
+  "35-depth-01.json": {
+   "acts": [
+    "ordenanza-3436-2019",
+    "ordenanza-3469-2019",
+    "ordenanza-3478-2019",
+    "ordenanza-3479-2019",
+    "ordenanza-90-2018"
+   ],
+   "sha256": "0672c35716cf8712c61547bfa1476be71a9f172bb378cd906ad419c9ce80a936"
   }
  },
  "schema": 1

@@ -220,20 +220,25 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-4236-2026` | Ordenanza 4236/2026: Fijar el valor del módulo a partir del 1 de febrero de 2026, en la suma de pesos dos mil cuatrocientos setenta y siete con 07/100 ($ 2.477,07).- | 1 | 2026-06-10 to 2026-06-10 |
 | `ordenanza-4243-2026` | Ordenanza 4243/2026: Aprobar en todos sus términos el convenio celebrado con fecha 13 de febrero de 2026 entre la Municipalidad de Saladillo y Camuzzi Gas Pampeana S.A., en el marco del expediente municipal N° 5855/C/2025, caratulado: “Camuz | 1 | 2026-07-23 to 2026-07-23 |
 | `ordenanza-4251-2026` | Ordenanza 4251/2026: Convalidar la adjudicación de la Licitación Pública Nº 1/26 efectuada mediante Decreto 453/2026 del Departamento Ejecutivo, a la empresa Cooperativa de Trabajo, Abrigo y Esperanza Ltda., la cual cotiza un total de pesos  | 1 | 2026-07-23 to 2026-07-23 |
+| `ordenanza-3436-2019` | Ordenanza 3436/2019: Acéptese la donación efectuada por SIRBO S.R.L., representada por el Sr. Alfredo Carlos Witt en su calidad de Gerente, a favor de la Municipalidad de Saladillo, mediante Acta de donación de Bienes de fecha 12 de diciembr | 1 | 2019-09-11 to 2019-09-11 |
+| `ordenanza-3469-2019` | Ordenanza 3469/2019: Apruébese el Convenio suscripto con fecha 05 de abril de 2019 entre la Municipalidad de Saladillo y el Sr. Castillo Gilberto Fabián, D.N.I. N° 23.756.520 y la Sra. Costa Nancy Esther, D.N.I. N° 18.492.068, por medio del  | 1 | 2019-09-11 to 2019-09-11 |
+| `ordenanza-3478-2019` | Ordenanza 3478/2019: Convalídese la declaración de incompetencia de la Dirección Seguridad Ciudadana y Defensa Civil y de la Secretaría de Gobierno, efectuada mediante Decreto N° 280/2019 del Departamento Ejecutivo, por carecer de personal i | 1 | 2019-09-11 to 2019-09-11 |
+| `ordenanza-3479-2019` | Ordenanza 3479/2019: Convalídese la declaración de incompetencia de la Dirección de Bromatología, de la Subsecretaría de Salud Pública y de la Secretaría de Gobierno, efectuada mediante Decreto N° 378/2019 del Departamento Ejecutivo, para re | 1 | 2019-09-11 to 2019-09-11 |
+| `ordenanza-90-2018` | Ordenanza 90/2018: Exímase del pago del impuesto automotor al Sr. Carlos Alberto GONZALEZ (DNI 16.625.748), Dominio ERB-811, en un porcentaje del 100%, respecto al dominio del automotor que se indica y desde la fecha en que el solicitante  | 1 | 2018-10-10 to 2018-10-10 |
 
-The build made 206 commits:
+The build made 211 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 206 | first version of an act |
+| 211 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 206 laws in the record.
-- 412 tags.
+- 211 laws in the record.
+- 422 tags.
 
 ## Dates
 
@@ -245,13 +250,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c3a3a8030301f50150a7617761a501def76a9b89c99c7c6371f143161f6cfcf7` (1357404 bytes).
+- Corpus: sha256 `44b8e3eec69ac54d6daf735ae312b6323da28ddefdd610375b55fbf28a7fbb19` (1383114 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-206 versions of 206 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -262,6 +267,7 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- Five additional as-enacted Saladillo ordinances from the official SIBOM ordinance search; each source page gives the original ordinance and bulletin publication date.
 
 ## What AI did and did not do
 
@@ -273,3 +279,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- A model selected the source entries and wrote parsing code; no model wrote or corrected law text.

@@ -2884,6 +2884,76 @@
      "sha256": "ac830e965d19de8196502ad88c07a6b4cf67c8a2e69347436de308038f9872fe"
     }
    ]
+  },
+  {
+   "slug": "ordenanza-3436-2019",
+   "short": "Ordenanza 3436/2019",
+   "title": "Ordenanza 3436/2019: Acéptese la donación efectuada por SIRBO S.R.L., representada por el Sr. Alfredo Carlos Witt en su calidad de Gerente, a favor de la Municipalidad de Saladillo, mediante Acta de donación de Bienes de fecha 12 de diciembr",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2641/contents/1369845",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2641/contents/1369845",
+     "sha256": "49d83deba75d192ba0ccec1d812c5cadd23ff85528643b45659d8b2baca30c65"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3469-2019",
+   "short": "Ordenanza 3469/2019",
+   "title": "Ordenanza 3469/2019: Apruébese el Convenio suscripto con fecha 05 de abril de 2019 entre la Municipalidad de Saladillo y el Sr. Castillo Gilberto Fabián, D.N.I. N° 23.756.520 y la Sra. Costa Nancy Esther, D.N.I. N° 18.492.068, por medio del ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2641/contents/1370242",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 3,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2641/contents/1370242",
+     "sha256": "729b543f2638715b5ad3393f185335e6e2483e8432cf6a6392dbb3f883c13258"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3478-2019",
+   "short": "Ordenanza 3478/2019",
+   "title": "Ordenanza 3478/2019: Convalídese la declaración de incompetencia de la Dirección Seguridad Ciudadana y Defensa Civil y de la Secretaría de Gobierno, efectuada mediante Decreto N° 280/2019 del Departamento Ejecutivo, por carecer de personal i",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2641/contents/1370276",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2641/contents/1370276",
+     "sha256": "b683333d233b761304653c20f5afd66cb4dd54af9d2be35b7d1a07ad6f6e535f"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-3479-2019",
+   "short": "Ordenanza 3479/2019",
+   "title": "Ordenanza 3479/2019: Convalídese la declaración de incompetencia de la Dirección de Bromatología, de la Subsecretaría de Salud Pública y de la Secretaría de Gobierno, efectuada mediante Decreto N° 378/2019 del Departamento Ejecutivo, para re",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/2641/contents/1370278",
+   "versions": [
+    {
+     "from": "2019-09-11",
+     "units": 4,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/2641/contents/1370278",
+     "sha256": "7b5418cbaca618b3a5a2626457b99d025553881fdae5df5609ba187324c5e6b5"
+    }
+   ]
+  },
+  {
+   "slug": "ordenanza-90-2018",
+   "short": "Ordenanza 90/2018",
+   "title": "Ordenanza 90/2018: Exímase del pago del impuesto automotor al Sr. Carlos Alberto GONZALEZ (DNI 16.625.748), Dominio ERB-811, en un porcentaje del 100%, respecto al dominio del automotor que se indica y desde la fecha en que el solicitante ",
+   "url": "https://sibom.slyt.gba.gob.ar/bulletins/1435/contents/1250543",
+   "versions": [
+    {
+     "from": "2018-10-10",
+     "units": 5,
+     "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/1435/contents/1250543",
+     "sha256": "d7968031c6392cb039ebd04275ec12d59087c4af51a3dcd6824e19e6f5046e32"
+    }
+   ]
   }
  ]
 }
